@@ -10,6 +10,5 @@ Building and deploying a real estate price prediction website on AWS Cloud.
 
 4. Build a website front-end (html, css, javascript) that allows users to enter house information including home sqr ft area, # bed, # bath, and location.
 
-5. Deploy the weba application to cloud (AWS EC2)
+5. Deploy the weba application to cloud [AWS EC2](http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/)
 
-http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/
