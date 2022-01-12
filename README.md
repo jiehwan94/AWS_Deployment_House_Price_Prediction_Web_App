@@ -12,3 +12,4 @@ Building and deploying a real estate price prediction website on AWS Cloud.
 
 5. Deploy the web application to cloud [AWS EC2](http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/)
 
+![image](https://user-images.githubusercontent.com/15040724/149046047-a915d2ef-be7b-40b5-a66a-6017c5a7300e.png)
