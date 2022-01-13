@@ -1,4 +1,4 @@
-# Deploying House Price Prediction Flask Web Application via AWS
+# Deploying House Price Prediction Flask Web Application to AWS
 
 1. EDA, data cleansing, feature engineering, dimensionality reduction, Grid Search CV for hyperparamter tuning, k-fold cross validation
 
