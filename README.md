@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/15040724/149602771-cdc68587-1f54-4705-85d3-b0f4a5c498b8.png)
 
+### Steps taken:
+
 1. EDA, data cleansing, feature engineering, dimensionality reduction, Grid Search CV for hyperparamter tuning, k-fold cross validation.
 
 2. Build a model using linear regression and save it as a pickle file.
