@@ -1,4 +1,4 @@
-# Deploying House Price Prediction Flask Web Application to AWS
+# Deploying a Flask Web Application to AWS
 
 ![image](https://user-images.githubusercontent.com/15040724/149602771-cdc68587-1f54-4705-85d3-b0f4a5c498b8.png)
 
