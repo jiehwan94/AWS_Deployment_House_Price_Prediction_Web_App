@@ -14,4 +14,11 @@
 
 5. Deploy the Flask web application to an [AWS EC2](http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/) instance using Nginx.
 
-![image](https://user-images.githubusercontent.com/15040724/149046047-a915d2ef-be7b-40b5-a66a-6017c5a7300e.png)
+
+Please refer to my blog for more info:
+
+https://94light.wixsite.com/mysite/post/deploying-house-price-prediction-flask-web-app-to-aws
+
+Youtube video:
+
+https://www.youtube.com/watch?v=GpIe-P_0FLk
